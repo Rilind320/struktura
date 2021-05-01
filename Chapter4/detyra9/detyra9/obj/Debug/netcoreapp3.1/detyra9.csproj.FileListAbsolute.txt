@@ -1,0 +1,12 @@
+C:\Users\Dell\OneDrive\Desktop\Universum\Hyrje ne shtruktura te te dhenave\Chapter4\detyra9\detyra9\bin\Debug\netcoreapp3.1\detyra9.exe
+C:\Users\Dell\OneDrive\Desktop\Universum\Hyrje ne shtruktura te te dhenave\Chapter4\detyra9\detyra9\bin\Debug\netcoreapp3.1\detyra9.deps.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Hyrje ne shtruktura te te dhenave\Chapter4\detyra9\detyra9\bin\Debug\netcoreapp3.1\detyra9.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Hyrje ne shtruktura te te dhenave\Chapter4\detyra9\detyra9\bin\Debug\netcoreapp3.1\detyra9.runtimeconfig.dev.json
+C:\Users\Dell\OneDrive\Desktop\Universum\Hyrje ne shtruktura te te dhenave\Chapter4\detyra9\detyra9\bin\Debug\netcoreapp3.1\detyra9.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Hyrje ne shtruktura te te dhenave\Chapter4\detyra9\detyra9\bin\Debug\netcoreapp3.1\detyra9.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Hyrje ne shtruktura te te dhenave\Chapter4\detyra9\detyra9\obj\Debug\netcoreapp3.1\detyra9.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Hyrje ne shtruktura te te dhenave\Chapter4\detyra9\detyra9\obj\Debug\netcoreapp3.1\detyra9.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\Universum\Hyrje ne shtruktura te te dhenave\Chapter4\detyra9\detyra9\obj\Debug\netcoreapp3.1\detyra9.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Universum\Hyrje ne shtruktura te te dhenave\Chapter4\detyra9\detyra9\obj\Debug\netcoreapp3.1\detyra9.dll
+C:\Users\Dell\OneDrive\Desktop\Universum\Hyrje ne shtruktura te te dhenave\Chapter4\detyra9\detyra9\obj\Debug\netcoreapp3.1\detyra9.pdb
+C:\Users\Dell\OneDrive\Desktop\Universum\Hyrje ne shtruktura te te dhenave\Chapter4\detyra9\detyra9\obj\Debug\netcoreapp3.1\detyra9.genruntimeconfig.cache
