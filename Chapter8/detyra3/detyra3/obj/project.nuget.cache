@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2NdsWby9pHkJh2L/NP7M0rrafb3m3Qxji62EVk6845DTtuN47PG5f+Z+P6psmw9C1NRQ3YypqDuUo8gfRC7ItA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\detyra3\\detyra3\\detyra3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

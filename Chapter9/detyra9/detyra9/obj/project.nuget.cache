@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YoxEIAzNElbf/DsnXuDKlNpbp4SzNjEf5jakUecx8a2EUcocstfQPvj0o/rhJwkcAlHJLKd1PwnENqY5Q9pQXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\OneDrive\\Desktop\\Universum\\Hyrje ne shtruktura te te dhenave\\Chapter9\\detyra9\\detyra9\\detyra9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
